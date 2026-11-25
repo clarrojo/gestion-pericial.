@@ -1,1 +1,3 @@
 Gestión Pericial v2.1 – pruebas. GitHub Pages. Conserva temporalmente el token de acceso en el navegador hasta su caducidad; intenta renovación sin consentimiento, sujeta a bloqueo de ventanas y políticas de Google. No contiene refresh token. Usar solo en dispositivos propios. No borrar datos locales con fotos pendientes. Probar con expedientes ficticios.
+
+Versión 2.2: eliminación individual de expedientes cerrados con confirmación, registro de bajas sincronizado y papelera de Drive. Actualizar ambos dispositivos antes de borrar.
