@@ -1,3 +1,1 @@
-Gestión Pericial 1.6 — pruebas
-Subir todos los archivos a GitHub sustituyendo los anteriores. Conservar copia 1.5 y exportar los expedientes antes de actualizar. Abrir ?v=16 si persiste la caché antigua.
-Drive: sincronización tras guardar, recuperar conexión y cada dos minutos mientras la aplicación esté visible y Google autorizado. Se aplaza durante edición de notas/croquis o formularios activos. Durante sincronización se bloquea temporalmente la edición. Si caduca el permiso, conectar de nuevo. Conflictos se notifican sin sobrescribir según mecanismo de 1.5; no hay garantía frente a escrituras simultáneas exactas. Google Sheets pendiente. Probar exclusivamente con expedientes ficticios.
+Versión 1.7 de pruebas. Nuevo listado Todos los expedientes, vista de fotos y notas, reutilización del token vigente en la misma sesión de pestaña. Al cerrar la sesión o caducar el token puede requerirse conectar de nuevo. No usar expedientes reales hasta validar.
