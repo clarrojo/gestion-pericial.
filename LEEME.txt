@@ -2,3 +2,5 @@ Gestión Pericial v2.12 — corrección de sincronización
 Mantiene IndexedDB y datos existentes. No borrar almacenamiento.
 Configuración permanece abierta durante refrescos; errores visibles; reintentos de fotografías; conciliación conservadora de fotografías antiguas y nuevas.
 Prueba real con Google pendiente.
+
+Versión 2.13: consulta catastral GPS (si el servicio admite CORS), referencia manual y adjuntar PDF oficial a Documentación. No descarga automática del PDF; conservar archivo si falla subida.
