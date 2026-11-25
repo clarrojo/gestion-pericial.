@@ -1,3 +1,3 @@
-Gestión Pericial v2.1 – pruebas. GitHub Pages. Conserva temporalmente el token de acceso en el navegador hasta su caducidad; intenta renovación sin consentimiento, sujeta a bloqueo de ventanas y políticas de Google. No contiene refresh token. Usar solo en dispositivos propios. No borrar datos locales con fotos pendientes. Probar con expedientes ficticios.
-
-Versión 2.2: eliminación individual de expedientes cerrados con confirmación, registro de bajas sincronizado y papelera de Drive. Actualizar ambos dispositivos antes de borrar.
+Versión 2.4. Sin PIN. Tokens en memoria. CSP y correcciones de interpolación HTML.
+Configurar Google Cloud: mantener modo de pruebas y únicamente la cuenta autorizada como usuario de prueba. Activar 2FA en Google y GitHub. Revisar permisos de Drive.
+Actualizar ambos dispositivos. Pruebas reales pendientes. No es auditoría integral.
