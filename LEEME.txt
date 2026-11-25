@@ -1,1 +1,1 @@
-Versión 1.8 de pruebas. Subir todos los archivos a GitHub Pages. Registro Sheets complementario. Requiere conectar Google al cerrar la sesión o caducar el token. Probar solo con expedientes ficticios.
+Gestión Pericial v2.0 – pruebas. Subir todos los archivos a GitHub Pages. Cámara integrada: requiere HTTPS y permiso de cámara. Las fotos locales pueden perderse si se borran datos del navegador. Exportar ZIP como respaldo. Verificación automática por tamaño y manual por SHA-256. Probar con expedientes ficticios.
