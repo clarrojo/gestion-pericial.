@@ -1,1 +1,1 @@
-Versión 1.7 de pruebas. Nuevo listado Todos los expedientes, vista de fotos y notas, reutilización del token vigente en la misma sesión de pestaña. Al cerrar la sesión o caducar el token puede requerirse conectar de nuevo. No usar expedientes reales hasta validar.
+Versión 1.8 de pruebas. Subir todos los archivos a GitHub Pages. Registro Sheets complementario. Requiere conectar Google al cerrar la sesión o caducar el token. Probar solo con expedientes ficticios.
