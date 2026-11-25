@@ -1,1 +1,3 @@
-Versión 2.5. Verifica correo de Google mediante userinfo antes de asignar token. Requiere scopes openid y email además de los anteriores. Mantener solo la cuenta autorizada en usuarios de prueba. Validación adicional de copias y croquis. Sin PIN. Copias manuales existentes; automatización pendiente. Pruebas reales pendientes.
+Gestión Pericial v2.7 — versión para validación.
+Copiar los siete archivos al repositorio existente, sin borrar datos del navegador.
+Excel exportado desde Sheets al sincronizar, con reintento si falla. Historial de revisiones sincronizadas desde v2.7, no de cada edición local. Desconexión manual y renovación Google sujeta a autorización. CSP conserva manejadores inline heredados. No se ha probado con la cuenta real ni en Samsung. Antes de actualizar exportar copia JSON y comprobar sincronización.
