@@ -1,4 +1,4 @@
-Gestión Pericial v2.10 — versión para validación.
+Gestión Pericial v2.11 — versión para validación.
 Copiar los siete archivos al repositorio existente, sin borrar datos del navegador.
 Excel exportado desde Sheets al sincronizar, con reintento si falla. Historial de revisiones sincronizadas desde v2.7, no de cada edición local. Desconexión manual y renovación Google sujeta a autorización. CSP conserva manejadores inline heredados. No se ha probado con la cuenta real ni en Samsung. Antes de actualizar exportar copia JSON y comprobar sincronización.
 
@@ -6,4 +6,6 @@ Configuración plegada por defecto; historial dentro de configuración. Registro
 
 V2.9: indicadores de autorización y sincronización de expedientes; copias y restauración en configuración. Última sincronización correcta de la sesión.
 
-V2.10: nuevo orden del menú principal. Sin cambios en almacenamiento ni sincronización.
+V2.11: nuevo orden del menú principal. Sin cambios en almacenamiento ni sincronización.
+
+Fotos: originales en Drive, referencias en JSON, copia local en dispositivo de captura, descarga individual o ZIP bajo demanda. Actualizar todos los dispositivos antes de sincronizar. No usar versiones antiguas con JSON nuevos. Prueba con expediente de ensayo y copia previa.
